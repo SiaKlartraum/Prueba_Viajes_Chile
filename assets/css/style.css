@@ -1,0 +1,49 @@
+body{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-color: black;
+}
+nav img{
+    height: 50px;
+    padding: 5px;
+}
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #ffffff;
+}
+.icon-box {
+    background-color:#0dcaf0;
+    padding: 5px;    
+}
+.icon-box i {
+    font-size: 30px; 
+}
+#destacados img{
+    height: 150px;
+    object-fit: cover;
+}
+.custom-card {
+    background-color:#0dcaf0; 
+    height: 350px
+}
+.btn-custom {
+    background-color:#0dcaf0;
+    color: #ffffff; 
+}
+
+footer{
+    background-color:#0dcaf0;
+    color: #ffffff;
+    padding: 50px;
+}
+.footer-icons i {
+    font-size: 30px; 
+    margin: 0 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
